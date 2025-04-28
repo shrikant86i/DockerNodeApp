@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('welcome to new node app');
+  res.send('welcome to containarized node app');
 
 });
 
